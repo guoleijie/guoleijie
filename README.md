@@ -2,7 +2,7 @@
 
 欢迎来到我的Github首页！我是一个热爱编程的程序员，喜欢探索新技术和分享我的经验。
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://github.com/guoleijie/guoleijie/assets/14980280/ab5e5b58-e1f9-46d5-b4bc-3255854152da" width="13"/> <b>Shanghai, China</b></p>
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://github.com/guoleijie/guoleijie/assets/14980280/ab5e5b58-e1f9-46d5-b4bc-3255854152da" width="20"/> <b>Shanghai, China</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
